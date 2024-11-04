@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **React.js and next.js**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shafikul-islam-22a280316/](https://www.linkedin.com/in/shafikul-islam-22a280316/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/shafikul-islam-22a280316/**
 
