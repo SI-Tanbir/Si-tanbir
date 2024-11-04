@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shafikul</h1>
 <h3 align="center">Aspiring Web Developer | Webapps security Enthusiast | Passionate About Building & Securing Websites</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=si-tanbir" alt="si-tanbir" /></a> </p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Si-tanbir&radius=16&theme=github-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
 
 - 🌱 I’m currently learning **React.js and next.js**
 
