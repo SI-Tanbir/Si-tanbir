@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shafikul</h1>
-<h3 align="center">Aspiring Web Developer | Webapps security Enthusiast | Passionate About Building & Securing Websites</h3>
+<h3 align="center">Frontend Developer | React.js Enthusiast | Passionate About Building and Securing Dynamic, User-Friendly Websites
+</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,7 +23,14 @@
 </p>
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=si-tanbir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=si-tanbir&show_icons=true&locale=en&layout=compact" alt="si-tanbir" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=si-tanbir&show_icons=true&locale=en" alt="si-tanbir" /></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=si-tanbir&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
