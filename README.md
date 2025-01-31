@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shafikul</h1>
-<h3 align="center">Frontend Developer | React.js Enthusiast | Passionate About Building and Securing Dynamic, User-Friendly Websites
+<h3 align="center">Frontend Developer | Next.js Enthusiast | Passionate About Building and Securing Dynamic, User-Friendly Websites
 </h3>
 
 
