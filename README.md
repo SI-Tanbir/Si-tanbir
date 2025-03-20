@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **React.js and next.js**
+- 🌱 I’m currently exploring the  possibilities in ** technology and AI development **
 
 
 - 📫 How to reach me **https://www.linkedin.com/in/shafikul-islam-22a280316/**
