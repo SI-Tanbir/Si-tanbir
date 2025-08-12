@@ -1,7 +1,6 @@
-# Shafikul Islam
+# Shafikul Islam -Front end engineer looking for Remote role
 
-**Email:** [shafiktanbir@gmail.com](mailto:shafiktanbir@gmail.com)   
-**Whatsup:** [click](https://wa.me/+8801776498126)  
+[shafiktanbir@gmail.com](mailto:shafiktanbir@gmail.com)  &nbsp; [whatsapp](https://wa.me/+8801776498126)  
 
 **Location:** Dhaka, Bangladesh  
 [LinkedIn](https://www.linkedin.com/in/md-shafik-285a34370/) &nbsp; [GitHub](https://github.com/si-tanbir) &nbsp; [Portfolio](https://shafik-protfolio.vercel.app/)
@@ -62,16 +61,6 @@ Full-Stack Developer with around 1 year of experience, specializing in building 
 
 ---
 
-## Licenses & Certifications
-
-- Docker Foundations Professional at LinkedIn Learning - [Certificate](certificate-link)
-- Build a Backend REST API with Node JS from Scratch at Udemy - [Certificate](certificate-link)
-- MongoDB - The Complete MongoDB Developers at Udemy - [Certificate](certificate-link)
-- Comprehensive JavaScript Course: From Beginner to Full Stack Pro - [Certificate](certificate-link)
-- Hands-On React JS: From Beginner to Expert at Udemy - [Certificate](certificate-link)
-- Software Architecture at Udemy - [Certificate](certificate-link)
-
----
 
 ## Language
 
