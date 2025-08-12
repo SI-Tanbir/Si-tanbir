@@ -1,9 +1,7 @@
 # Shafikul Islam -Front end engineer looking for Remote role
 
-
-
 **Location:** Dhaka, Bangladesh  
-[LinkedIn](https://www.linkedin.com/in/md-shafik-285a34370/) &nbsp; [GitHub](https://github.com/si-tanbir) &nbsp; [Portfolio](https://shafik-protfolio.vercel.app/) &nbsp; [Gmail](mailto:shafiktanbir@gmail.com)  &nbsp; [whatsapp](https://wa.me/+8801776498126)  
+[Resume](https://drive.google.com/file/d/1CD45Q50NQeTbq9TWdCCGNveKSNNiTKpG/view) &nbsp; [LinkedIn](https://www.linkedin.com/in/md-shafik-285a34370/) &nbsp; [GitHub](https://github.com/si-tanbir) &nbsp; [Portfolio](https://shafik-protfolio.vercel.app/) &nbsp; [Gmail](mailto:shafiktanbir@gmail.com)  &nbsp; [whatsapp](https://wa.me/+8801776498126)  
 
 ---
 
@@ -15,11 +13,7 @@ Full-Stack Developer with around 1 year of experience, specializing in building 
 
 ## Technical Skills
 
-- JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass, React.js, Next.js, Express.js, Tailwind CSS, Bootstrap, Material UI ,MongoDB, Firebase, Postman (API Testing), Git, GitHub ,Vercel, AWS (EC2, S3), Docker (basic) , Figma, Trello, Nodemailer, Linux, Chrome DevTools
-
-**Familiar Technologies**
-
-- Go, PHP, WordPress, MySQL, Zod, Python
+- JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass, React.js, Next.js, Express.js, Tailwind CSS
 
 **Soft Skills**
 
