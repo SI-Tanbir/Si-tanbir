@@ -1,6 +1,6 @@
 # Shafikul Islam -Front end engineer looking for Remote role
 
-[shafiktanbir@gmail.com](mailto:shafiktanbir@gmail.com)  &nbsp; [whatsapp](https://wa.me/+8801776498126)  
+[Gmail](mailto:shafiktanbir@gmail.com)  &nbsp; [whatsapp](https://wa.me/+8801776498126)  
 
 **Location:** Dhaka, Bangladesh  
 [LinkedIn](https://www.linkedin.com/in/md-shafik-285a34370/) &nbsp; [GitHub](https://github.com/si-tanbir) &nbsp; [Portfolio](https://shafik-protfolio.vercel.app/)
