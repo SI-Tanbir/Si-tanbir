@@ -1,32 +1,79 @@
-<h1 align="center">Hi 👋, I'm Shafikul</h1>
-<h3 align="center">Full stack Developer | Aspirant Entrapernure | Passionate About Building and Securing Dynamic, User-Friendly Websites
-</h3>
+# Shafikul Islam
 
+**Email:** [shafiktanbir@gmail.com](mailto:shafiktanbir@gmail.com)   
+**Whatsup:** [click](https://wa.me/+8801776498126)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Location:** Dhaka, Bangladesh  
+[LinkedIn](https://www.linkedin.com/in/md-shafik-285a34370/) &nbsp; [GitHub](https://github.com/si-tanbir) &nbsp; [Portfolio](https://shafik-protfolio.vercel.app/)
 
+---
 
+## Professional Summary
 
+Full-Stack Developer with around 1 year of experience, specializing in building scalable back-end systems using Express.js, MongoDB, and Docker. Also proficient in creating responsive, user-focused front-ends with React.js and Next.js. Driven by a passion for solving real-world problems and delivering impactful solutions in fast-paced environments.
 
+---
 
-- 🌱 I’m currently exploring the  possibilities in **technology and AI development**
+## Technical Skills
 
+- JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass, React.js, Next.js, Express.js, Tailwind CSS, Bootstrap, Material UI ,MongoDB, Firebase, Postman (API Testing), Git, GitHub ,Vercel, AWS (EC2, S3), Docker (basic) , Figma, Trello, Nodemailer, Linux, Chrome DevTools
 
-- 📫 How to reach me **https://www.linkedin.com/in/shafikul-islam-22a280316/**
+**Familiar Technologies**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shafikul-islam-22a280316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shafikul-islam-22a280316/" height="30" width="40" /></a>
-</p>
+- Go, PHP, WordPress, MySQL, Zod, Python
 
+**Soft Skills**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=si-tanbir&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- Problem-solving, team collaboration, time management
 
-###
+---
 
+## Work Experience
 
+### **Full-Stack Developer**
+**Digital Gregg**, Remote  
+*Jan 2025 – July 2025*
 
-###
+- Developed and maintained full-stack web applications using React.js, Next.js, and Express.js, integrating MongoDB for efficient data management.
+- Built and optimized RESTful APIs with Node.js and Express.js, improving server response times by 15% and ensuring seamless front-end integration.
+- Conducted thorough testing and debugging of front-end and back-end components, enhancing application performance and user satisfaction.
+
+### **Full-Stack Developer Intern (Frontend-Focused)**
+**Tunnel**, Remote  
+*Sep 2024 – Dec 2024*
+
+- Contributed to full-stack development of client projects, building front-end interfaces with React.js and Tailwind CSS and back-end APIs with Express.js.
+- Designed and implemented MongoDB schemas and queries to support dynamic data retrieval, improving application scalability and performance.
+- Debugged and resolved issues across the stack, enhancing application reliability and user experience.
+
+---
+
+## Professional Projects
+
+- **Ktps (Keep the Party Safe)** – Platform to save people from drug overdose [keepthepartysafe.org](https://keepthepartysafe.org)
+  - Built with accessibility-first design using HTML5, CSS3, JavaScript, and a responsive CMS-driven architecture.
+  - Optimized for high availability and performance to handle millions of monthly users in times of crisis.
+  - Integrated multilingual support and geolocation-based service routing to connect users with local resources.
+
+- **RideBustang** – Official Public Transit Website [ridebustang.com](https://ridebustang.com)
+  - Developed Colorado’s intercity bus service website using Next.js, Tailwind CSS, WordPress, and PHP.
+  - Utilized Docker for containerized development, ensuring scalable microservices deployment.
+  - Improved site accessibility and SEO, enhancing user reach and engagement.
+
+---
+
+## Licenses & Certifications
+
+- Docker Foundations Professional at LinkedIn Learning - [Certificate](certificate-link)
+- Build a Backend REST API with Node JS from Scratch at Udemy - [Certificate](certificate-link)
+- MongoDB - The Complete MongoDB Developers at Udemy - [Certificate](certificate-link)
+- Comprehensive JavaScript Course: From Beginner to Full Stack Pro - [Certificate](certificate-link)
+- Hands-On React JS: From Beginner to Expert at Udemy - [Certificate](certificate-link)
+- Software Architecture at Udemy - [Certificate](certificate-link)
+
+---
+
+## Language
+
+- English: Fluent in spoken and written language.
+- Hindi : conversational
