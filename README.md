@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-Full-Stack Developer with around 1 year of experience, specializing in building scalable back-end systems using Express.js, MongoDB, and Docker. Also proficient in creating responsive, user-focused front-ends with React.js and Next.js. Driven by a passion for solving real-world problems and delivering impactful solutions in fast-paced environments.
+Front end Developer with around 1 year of experience, specializing in building scalable back-end systems using Express.js, MongoDB, and Docker. Also proficient in creating responsive, user-focused front-ends with React.js and Next.js. Driven by a passion for solving real-world problems and delivering impactful solutions in fast-paced environments.
 
 ---
 
