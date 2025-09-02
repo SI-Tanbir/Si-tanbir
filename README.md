@@ -1,5 +1,8 @@
 # Shafikul Islam -Front end engineer looking for Remote role
 
+#aspiring goland developer
+#Learning : Principle of backend programming 
+
 **Location:** Dhaka, Bangladesh  
 [Resume](https://drive.google.com/file/d/1CD45Q50NQeTbq9TWdCCGNveKSNNiTKpG/view) &nbsp; [LinkedIn](https://www.linkedin.com/in/md-shafik-285a34370/) &nbsp; [GitHub](https://github.com/si-tanbir) &nbsp; [Portfolio](https://shafik-protfolio.vercel.app/) &nbsp; [Gmail](mailto:shafiktanbir@gmail.com)  &nbsp; [whatsapp](https://wa.me/+8801776498126)  
 
@@ -25,7 +28,7 @@ Front end Developer with around 1 year of experience, specializing in building s
 
 ### **Full-Stack Developer**
 **Digital Gregg**, Remote  
-*Jan 2025 – July 2025*
+*Jan 2025 – aug 2025*
 
 - Developed and maintained full-stack web applications using React.js, Next.js, and Express.js, integrating MongoDB for efficient data management.
 - Built and optimized RESTful APIs with Node.js and Express.js, improving server response times by 15% and ensuring seamless front-end integration.
@@ -33,7 +36,7 @@ Front end Developer with around 1 year of experience, specializing in building s
 
 ### **Full-Stack Developer Intern (Frontend-Focused)**
 **Tunnel**, Remote  
-*Sep 2024 – Dec 2024*
+*july 2024 – Dec 2024*
 
 - Contributed to full-stack development of client projects, building front-end interfaces with React.js and Tailwind CSS and back-end APIs with Express.js.
 - Designed and implemented MongoDB schemas and queries to support dynamic data retrieval, improving application scalability and performance.
