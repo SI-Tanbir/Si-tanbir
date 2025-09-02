@@ -1,8 +1,8 @@
 # Shafikul Islam -Front end engineer looking for Remote role
 
-# Aspiring goland developer
 
-# Learning : Principle of backend programming 
+
+# Learning : Principle of backend programming | Aspiring goland engineer
 
 **Location:** Dhaka, Bangladesh  
 [Resume](https://drive.google.com/file/d/1CD45Q50NQeTbq9TWdCCGNveKSNNiTKpG/view) &nbsp; [LinkedIn](https://www.linkedin.com/in/md-shafik-285a34370/) &nbsp; [GitHub](https://github.com/si-tanbir) &nbsp; [Portfolio](https://shafik-protfolio.vercel.app/) &nbsp; [Gmail](mailto:shafiktanbir@gmail.com)  &nbsp; [whatsapp](https://wa.me/+8801776498126)  
